@@ -4,8 +4,6 @@ import Start from "./components/Start";
 import Timer from "./components/Timer";
 import Trivia from "./components/Trivia";
 
-
-
 function App() {
   const [username, setUsername] = useState(null);
   const [timeOut, setTimeOut] = useState(false);
@@ -159,8 +157,5 @@ function App() {
     </div>
   );
 }
-
-
-
 
 export default App;
