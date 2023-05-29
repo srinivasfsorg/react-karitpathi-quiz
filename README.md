@@ -2,15 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-## firstly
-
 clone the repo 
+`git clone https://github.com/srinivasfsorg/react-karotpathi-quiz.git `
 
-`git clone `
-
-## second cd project dir
-To install all depencencies
+## cd project dir
+install all depencencies
 ### `npm install`
 
 In the project directory, you can run:
