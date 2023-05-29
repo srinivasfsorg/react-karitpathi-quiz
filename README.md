@@ -13,6 +13,9 @@ In the project directory, you can run:
 ### `npm start`
 
 
+Observations:-
+>>under construction
+
 
 ## Available Scripts
 
