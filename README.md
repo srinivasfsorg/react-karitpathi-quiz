@@ -7,13 +7,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 clone the repo 
 
-`git clone [repo url]`
+`git clone `
 
 ## second cd project dir
+To install all depencencies
+### `npm install`
 
-##`npm install`
-
-##`npm start`
+In the project directory, you can run:
+### `npm start`
 
 
 
